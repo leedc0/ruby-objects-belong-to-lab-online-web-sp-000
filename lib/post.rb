@@ -6,7 +6,7 @@ class Post
   end
 
   def author
-    @author = @title.author
+    @author = title.author
   end
 
 end
