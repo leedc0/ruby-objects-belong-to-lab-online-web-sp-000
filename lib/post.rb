@@ -6,7 +6,7 @@ class Post
   end
 
   def author(name)
-    @name = title.name
+    @name = name
   end
 
 end
